@@ -1,0 +1,45 @@
+{
+    "colors": {
+        "r": 235,
+        "g": 219,
+        "b": 178,
+        "black": "#1d2021",
+        "light_black": "#3c3836",
+        "grey": "#504945",
+        "red": "#fb4934",
+        "green": "#b8bb26",
+        "yellow": "#fabd2f",
+        "blue": "#83a598",
+        "magenta": "#d3869b",
+        "cyan": "#8ec07c",
+        "white": "#fbf1c7",
+        "brightBlack": "#282828",
+        "brightRed": "#cc241d",
+        "brightGreen": "#98971a",
+        "brightYellow": "#d79921",
+        "brightBlue": "#458588",
+        "brightMagenta": "#b16286",
+        "brightCyan": "#689d6a",
+        "brightWhite": "#ebdbb2"
+    },
+    "cssvars": {
+        "font_main": "United Sans Medium",
+        "font_main_light": "United Sans Light"
+    },
+    "terminal": {
+        "fontFamily": "Fira Mono",
+        "cursorStyle": "block",
+        "foreground": "#ebdbb2",
+        "background": "#282828",
+        "cursor": "#83a598",
+        "cursorAccent": "#458588",
+        "selection": "rgba(251,241,199,0.3)"
+    },
+    "globe": {
+        "base": "#cc241d",
+        "marker": "#d79921",
+        "pin": "#98971a",
+        "satellite": "#fb4934"
+    },
+    "injectCSS": "section#main_shell{position:relative;left:29vh;}section#main_shell>h3.title{left:calc(29vh + 16.5vw)!important;}section#mod_column_right{left:28.5vh!important;}section#mod_column_right>h3.title{left:29.6vh!important;}div#mod_netstat_inner{height:6.85vh;padding-top:.5vh;}div#mod_globe_innercontainer{padding-bottom:.95vh;}div#mod_conninfo canvas{height:8vh!important;} @media (aspect-ratio:64/27) {section#mod_column_left > h3.title{left:1.6vh!important}section#mod_column_left{left:1vh !important}section#mod_column_right > h3.title{left:44vh!important}section#mod_column_right{left:43vh !important}section#main_shell > h3.title{left:37vw !important;width:60% !important}section#main_shell{left:41vh;width:60%}}"
+}
