@@ -23,7 +23,7 @@ Gruvbox also has a `-notype` variant without an on-screen keyboard and an extend
   <br><br>
 </p>
 
-The `gruvbox-notype` theme while editing a JSON file in `nvim` running in the terminal.
+The `gruvbox-notype` theme while editing a JSON file in `nvim` in the terminal.
 
 <p align="center">
   <img alt="screenshot" src="https://github.com/alembcke/eDEX-UI-gruvbox/blob/main/media/gruvbox-disrupted-htop.png">
