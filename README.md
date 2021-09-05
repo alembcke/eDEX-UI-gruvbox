@@ -11,7 +11,7 @@ To install it, first install the fonts from [Horizon eDEX-UI Theme](https://gith
 
 Then, launch eDEX-UI, use `Ctrl+Shift+S` (or `⌘+Shift+S`) to open the settings, select `gruvbox` in the "theme" dropdown menu, hit "Save to Disk" and "Reload UI". Done!
 
-Gruvbox also has a `-notype` variant without an on-screen keyboard and an extended file manager, a `-disrupted` variant where the terminal is in the middle of the screen and a `-full` variant without an on-screen keyboard and an extended terminal.  Screenshots below.
+Gruvbox also has a `-notype` variant without an on-screen keyboard and an extended file manager, a `-disrupted` variant where the terminal is on the right of the screen and a `-full` variant without an on-screen keyboard and an extended terminal.  Screenshots below.
 
 *Note: In the `-full` theme, the visual order of terminal tabs is reversed, and the memory monitor emphasizes free memory slots instead of used ones.*
 
